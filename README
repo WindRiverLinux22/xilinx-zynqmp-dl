@@ -22,7 +22,7 @@ This layer should be added to the bblayers.conf file.
 
 License
 -------
-Copyright (C) 2018 Wind River Systems, Inc.
+Copyright (C) 2018, 2019 Wind River Systems, Inc.
 
 Source code included in the tree for individual recipes is under the LICENSE
 stated in the associated recipe (.bb file) unless otherwise stated.
